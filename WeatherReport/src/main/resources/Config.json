@@ -1,0 +1,14 @@
+{"QA":{
+    "API_BASE_URL":"https://api.openweathermap.org/",
+    "WEB_BASE_URL":"https://www.ndtv.com/"
+},
+"STG":{
+    "API_BASE_URL":"https://api.openweathermap.org/",
+    "WEB_BASE_URL":"https://www.ndtv.com/"
+},
+"PROD":{
+    "API_BASE_URL":"https://api.openweathermap.org/",
+    "WEB_BASE_URL":"https://www.ndtv.com/"
+}
+
+}
